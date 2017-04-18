@@ -27,7 +27,9 @@ describe('MongoDB Repository', () => {
       done();
     });
   });
-
+  after(() => {
+    repo.disconnect();
+  });
   describe('Object construction', () => {
     it('should only create with the appropriate constructor', () => {
       const createRepoNoParams = () => new MongoRepository();
