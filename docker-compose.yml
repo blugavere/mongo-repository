@@ -10,7 +10,7 @@ services:
         environment:
             - NODE_ENV=docker
             - CI=true
-            - TRAVIS_REPO_SLUG=blugavere/mongoose-repository
+            - TRAVIS_REPO_SLUG=blugavere/mongo-repository
             - TRAVIS=true
             - COVERALLS_SERVICE_NAME=travis-ci
             - COVERALLS_REPO_TOKEN=${COVERALLS}
