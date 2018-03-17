@@ -1,6 +1,8 @@
 # MongoDB Repository
 [![NPM version][npm-image]][npm-url][![dependencies Status](https://david-dm.org/blugavere/mongodb-repository/status.svg)](https://david-dm.org/blugavere/mongodb-repository) [![Coverage Status](https://coveralls.io/repos/github/blugavere/mongodb-repository/badge.svg?branch=master)](https://coveralls.io/github/blugavere/mongodb-repository?branch=master)[![NPM Downloads](https://img.shields.io/npm/dm/mongodb-repository.svg?style=flat)](https://www.npmjs.com/package/mongodb-repository)[![Build Status](https://travis-ci.org/blugavere/mongodb-repository.svg?branch=master)](https://travis-ci.org/blugavere/mongodb-repository)[![Patreon](https://img.shields.io/badge/patreon-support%20the%20author-blue.svg)](https://www.patreon.com/blugavere)
 
+# This has been moved to a monorepo, https://github.com/blugavere/node-repositories
+
 ## Installation 
 
 ```sh
